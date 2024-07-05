@@ -11,7 +11,7 @@ The dataset was originally used as a take-home assignment provided by Starbucks 
 
 #### Optimization Strategy
 
-Your task is to use the training data to understand what patterns in V1-V7 to indicate that a promotion should be provided to a user. Specifically, your goal is to maximize the following metrics:
+Your task is to use the training data to understand what patterns in V1-V7 to indicate that a promotion should be provided to a user. Specifically, the goal is to maximize the following metrics:
 
 * **Incremental Response Rate (IRR)** 
 
